@@ -1,0 +1,4 @@
+Debugger - proqramdaki bugları(səhvləri) düzəltməyə kömək edən proqramdaki
+
+Breakpoint - dayanma nöqtəsi. debugger kodu seçdiyimiz sətirdə dayandırıb
+             verilənlərin informasiyasını və kodun gedişatını göstərir
