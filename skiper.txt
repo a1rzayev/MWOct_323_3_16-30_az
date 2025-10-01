@@ -1,0 +1,29 @@
+
+Qovluqlar-----------------------------------------
+	Dərs1(Debuggerlə tanışlıq)
+	Dərs2(Funksiyalar)
+	Dərs3(Namespace-Scope)
+	Dərs4(İxtiyari sayda arqumentlər)
+	Dərs5(Sətirlərlə manipulasiya)
+	Dərs6(File system)
+	Nəzəri suallar
+	İllustrasiyalar
+	İllustrasiyalar
+	İllustrasiyalar
+
+Fayllar-------------------------------------------
+	Dərs1(Debuggerlə tanışlıq).py
+	Dərs1(Debuggerlə tanışlıq)
+	Dərs1(Debuggerlə tanışlıq).png
+	Dərs2(Coin flip).py
+	Dərs2(Funksiyalar).py
+	Dərs2(Funksiyalar).png
+	Dərs3(Daş-Kağız-Qayçı).py
+	Dərs3(Namespace-Scope).py
+	Dərs3(Namespace-Scope).png
+	Dərs4(Doğru-Cəsarət).py
+	Dərs4(İxtiyari sayda arqumentlər).py
+	Dərs5(Robot war).py
+	Dərs5(Sətirlərlə manipulasiya).py
+	Dərs6(File system).py
+	Dərs6(Kamuflaj və casusluq).py
